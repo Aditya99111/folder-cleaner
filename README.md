@@ -1,2 +1,3 @@
 # folder-cleaner
 This will help u clear your clutter in a specific folder just download this in the folder which u want to organize.......
+and if you have any doubt feel free to comment,and if u like it don't forget to star ,thanks:)
